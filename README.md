@@ -1,0 +1,4 @@
+- Jobs Quiz
+-- I will create a Discord bot that will run a quiz about the user's interest in a field, which will then suggest fields of study that the user can take. It will also display a description of the lessons that will be studied and what kind of work they can do.
+---  langkah-langkah
+---- tutorial"# Tugas-Akhir-Python-lvl3" 

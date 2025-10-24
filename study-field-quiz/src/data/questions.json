@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Apa bidang kuliah yang paling Anda minati?",
+        "options": [
+            "Ilmu Komputer",
+            "Teknik Sipil",
+            "Psikologi",
+            "Ekonomi"
+        ]
+    },
+    {
+        "question": "Bidang kuliah mana yang Anda anggap paling menantang?",
+        "options": [
+            "Matematika",
+            "Fisika",
+            "Biologi",
+            "Kimia"
+        ]
+    },
+    {
+        "question": "Apa bidang kuliah yang paling sesuai dengan hobi Anda?",
+        "options": [
+            "Desain Grafis",
+            "Seni Musik",
+            "Olahraga",
+            "Fotografi"
+        ]
+    },
+    {
+        "question": "Bidang kuliah mana yang Anda ingin pelajari lebih dalam?",
+        "options": [
+            "Kedokteran",
+            "Hukum",
+            "Sosiologi",
+            "Ilmu Lingkungan"
+        ]
+    },
+    {
+        "question": "Apa bidang kuliah yang paling Anda rekomendasikan kepada teman?",
+        "options": [
+            "Pendidikan",
+            "Teknik Informatika",
+            "Manajemen",
+            "Arsitektur"
+        ]
+    }
+]
